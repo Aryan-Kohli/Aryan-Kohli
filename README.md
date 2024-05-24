@@ -28,7 +28,7 @@
  </div>
  <h3>Statistics:</h3>
  <img src="https://github-readme-stats.vercel.app/api?username=Aryan-Kohli&show_icons=true&theme=tokyonight" alt="Aayush Sharma" />
- <!-- <img src ="https://visitor-badge.laobi.icu/badge?page_id=Aryan-Kohli" /> -->
+ <img src ="https://visitor-badge.laobi.icu/badge?page_id=Aryan-Kohli" />
 <!---
 Aryan-Kohli/Aryan-Kohli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
